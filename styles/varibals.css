@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap');
+
+
+:root{
+    /* *BG */
+
+    --primary-bg :#ebe5ee ;
+
+    /* *FONT-FAMILY */
+
+    --font-family-title: 'Montserrat', sans-serif;
+    --font-family-text: 'Open Sans', sans-serif;
+   
+
+
+}
