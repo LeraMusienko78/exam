@@ -1,16 +1,52 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap');
+
 
 
 :root{
     /* *BG */
 
     --primary-bg :#ebe5ee ;
+    --secondary-bg: #232323;
+
+    /* *COLOR-TEXT */
+
+    --primary-text-color:gray;
+    --secondary-text-color:#FFFFFF;
 
     /* *FONT-FAMILY */
 
     --font-family-title: 'Montserrat', sans-serif;
     --font-family-text: 'Open Sans', sans-serif;
    
+
+    /* *FONT-SIZE */
+
+    --font-size-l:30px;
+    --font-size-m:18px;
+    --font-size-s:16px;
+
+    /* *PADDINGS */
+
+    --padding-l:40px;
+   
+
+    /* *MARGINS */
+
+    --margin-xxxl:171px;
+    --margin-xxl:120px;
+    --margin-xl:100px;
+    --margin-l:60px;
+    --margin-m:40px;
+    --margin-s:30px;
+    --margin-xs:20px;
+    --margin-xxs:12px;
+    --margin-xxxs:10px;
+   
+   
+
+
+
+
+
 
 
 }
