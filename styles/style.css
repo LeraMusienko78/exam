@@ -98,6 +98,7 @@ li {
 .title-header{
     font-size: 50px;
     font-family: var(--font-family-title);
+    color: aliceblue;
 }
 
 .button-header{
@@ -337,5 +338,48 @@ li {
     margin-left: var(--margin-xxxl);
 }
 
+.gallery{
+    display: flex;
+    flex-direction: column;
+    margin-top: var(--margin-xl);
+    margin-left: var(--margin-xxxl);
+}
 
+.gallery-img-wrapper{
+    margin-top: 30px;
+   display: flex;
+}
 
+.gallery-img{
+    width: 470px;
+    height: 596px;
+    margin-left:  30px;
+}
+
+.gallery-img:first-child{
+    margin-left: 0;
+}
+
+.gallery-img-pos{
+    width: 470px;
+    height: 596px;
+    position: relative;
+    margin-left: 30px;
+}
+
+.arrow-wrapper{
+    width: 40px;
+    height: 40px;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-left: 1300px;
+    margin-top: -290px;
+}
+
+.arrow{
+    width: 10px;
+    height: 18px;
+}
