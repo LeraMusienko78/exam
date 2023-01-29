@@ -5,12 +5,12 @@
     /* *BG */
 
     --primary-bg :#ebe5ee ;
-    --secondary-bg: #232323;
+    --secondary-bg:black;
 
     /* *COLOR-TEXT */
 
     --primary-text-color:gray;
-    --secondary-text-color:#FFFFFF;
+    --secondary-text-color:aliceblue;
 
     /* *FONT-FAMILY */
 
